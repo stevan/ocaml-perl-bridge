@@ -1,0 +1,8 @@
+POCaml:
+
+- fixup perl4caml by:
+    - making CPAN modules require calling .init to load
+    - add polymorphic variant types and converters
+- bundle this with Inline::OCaml
+- write a wrapper for (YAML|JSON)::Syck until we can make a C wrapper
+    - have it use compatible polymorphic variant types

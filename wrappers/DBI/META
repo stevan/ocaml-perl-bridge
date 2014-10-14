@@ -1,0 +1,3 @@
+version="0.01"
+archive(byte)="DBI.cma"
+archive(native)="DBI.cmxa"

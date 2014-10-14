@@ -1,0 +1,3 @@
+version="0.01"
+archive(byte)="poCaml.cma"
+archive(native)="poCaml.cmxa"

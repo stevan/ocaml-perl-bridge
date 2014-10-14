@@ -1,0 +1,3 @@
+version="0.01"
+archive(byte)="template.cma"
+archive(native)="template.cmxa"
